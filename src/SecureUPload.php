@@ -73,7 +73,9 @@ class SecureUPload {
 	private function initSecureUploadConfig( SecureUPloadConfig $SecureUPloadConfig ) {
 		$this->SecureUPloadConfig = $SecureUPloadConfig;
 
-		if ( ! empty( $this->SecureUPloadConfig->get( 'upload_folder' ) ) ) {
+		$upload_folder = $this->SecureUPloadConfig->get( 'upload_folder' );
+
+		if ( ! empty( $upload_folder ) ) {
 			$this->SecureUPloadConfig->parse();
 		} else {
 			Logger::logToErrorLog( 'SecureUPload\'s upload folder config is empty.' );
