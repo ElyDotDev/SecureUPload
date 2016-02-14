@@ -2,11 +2,7 @@
   "name": "alirdn/secureupload",
   "description": "PHP secure file upload package",
   "license": "MIT",
-  "keywords": [
-    "upload",
-    "secure upload",
-    "security"
-  ],
+  "keywords": ["upload", "secure upload", "file upload", "file", "security"],
   "homepage": "http://projects.allii.ir/project/secureupload/",
   "type": "library",
   "authors": [
