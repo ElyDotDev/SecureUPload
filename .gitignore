@@ -1,0 +1,13 @@
+.idea/
+__docs/
+__reports/
+__resources/
+__VisualPHPUnit/
+vendor/
+composer.lock
+phpDocumentor.phar
+phpDocumentor.bat
+phpdoc.xml
+PHPUnit.bat
+phpunit.xml
+phpunit-visual.xml
