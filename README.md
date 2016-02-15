@@ -62,7 +62,7 @@ if ( $Upload->status ) {
 - See [Documentation](http://projects.allii.ir/project/secureupload/documentation/)
 
 ## Requirements
-SecureUPload works with PHP 5.3.0 and above.
+SecureUPload works with PHP 5.3.0 and above. HHVM is also tested and worked as well.
 
 ## Bugs & feature requests
 For submitting bugs or feature requests, use [Github repository issues](https://github.com/alirdn/SecureUPload/issues).
