@@ -28,7 +28,7 @@ class SecureUPload {
 	/**
 	 * SecureUPload version
 	 */
-	const VERSION = '0.1.1';
+	const VERSION = '0.1.2';
 
 	/**
 	 * @var object Config\SecureUPloadConfig Stores provided config
