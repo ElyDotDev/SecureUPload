@@ -1,4 +1,4 @@
-# SecureUPload – PHP secure file upload package
+# SecureUPload – PHP secure file upload package [![Build Status](https://travis-ci.org/alirdn/SecureUPload.svg?branch=master)](https://travis-ci.org/alirdn/SecureUPload)
 ![SecureUPload – PHP secure file upload package banner](resources/banner-big.png?raw=true "SecureUPload – PHP secure file upload package banner")
 **SecureUPload** is a PHP composer package to securely upload files. SecureUPload uses best practices for uploading files in PHP, so you can use it without any file upload security headaches. Furthermore, it’s flexible enough that fits to most of different projects structures.
 
