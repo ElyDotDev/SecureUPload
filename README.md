@@ -3,7 +3,7 @@
 **SecureUPload** is a PHP composer package to securely upload files. SecureUPload uses best practices for uploading files in PHP, so you can use it without any file upload security headaches. Furthermore, it’s flexible enough that fits to most of different projects structures.
 
 ## Why SecureUPload?
-File upload is a risky part in all web applications. There are multiple ways that an attacker could attack web application by file upload feature. So whenever a web application wants to add this feature, developers needs to write lots of code for make it risk free. But file uploads could be secure, if we don’t trust users provided data (including HTTP headers and files) and check everything carefully. For more information about file upload risks please see: [OWAP Unrestricted File Upload](https://www.owasp.org/index.php/Unrestricted_File_Upload)
+File upload is a risky part in all web applications. There are multiple ways that an attacker could attack web application by file upload feature. So whenever a web application wants to add this feature, developers needs to write lots of code for make it risk free. But file uploads could be secure, if we don’t trust users provided data (including HTTP headers and files) and check everything carefully. For more information about file upload risks please see: [OWASP Unrestricted File Upload](https://www.owasp.org/index.php/Unrestricted_File_Upload)
 
 SecureUPload uses best practices steps for making a file upload secure. By using SecureUpload package, developer can focuses on other aspects of project and be sure about file uploads.
 
@@ -78,6 +78,6 @@ SecureUPload is licensed under MIT License. see the LICENSE file for details.
 - Alireza Dabiri Nejad – Me@allii.ir
 
 ## Acknowledgements
-- [OWAP Unrestricted File Upload](https://www.owasp.org/index.php/Unrestricted_File_Upload)
+- [OWASP Unrestricted File Upload](https://www.owasp.org/index.php/Unrestricted_File_Upload)
 
 
